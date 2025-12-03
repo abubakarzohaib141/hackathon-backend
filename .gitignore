@@ -4,3 +4,4 @@ build/
 auth-server/ 
 backend/ 
 "qdrant_data/collection/physical_ai_textbook/storage.sqlite" 
+"qdrant_data/collection/physical_ai_textbook/storage.sqlite" 
