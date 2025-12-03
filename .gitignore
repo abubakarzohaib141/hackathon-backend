@@ -3,3 +3,4 @@ node_modules/
 build/ 
 auth-server/ 
 backend/ 
+"qdrant_data/collection/physical_ai_textbook/storage.sqlite" 
